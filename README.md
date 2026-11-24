@@ -1,6 +1,6 @@
 # Hi, I’m Alex
 
-### Full-Stack Developer · C# / .NET · Backend-focused
+### Full-Stack Developer · C# / .NET · Backend-focused / Junior AQA .NET
 
 I build web applications with a strong focus on backend development using C# and .NET.
 I enjoy designing REST APIs, working with databases, and bringing complete products together
@@ -12,7 +12,6 @@ from the backend to the user interface.
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
 ## Tech I work with
